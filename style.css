@@ -1,0 +1,17 @@
+.card_p {
+  color: red;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: blue;
+}
+
+main {
+  display: grid;
+  grid-template-columns: auto;
+}
+
+img {
+  max-width: 100%;
+}
